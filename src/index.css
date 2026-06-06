@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+@media print {
+  @page {
+    size: A4 landscape; /* Auto-select A4 landscape paper */
+    margin: 0mm;
+  }
+  
+  html, body {
+    width: 297mm !important;
+    height: 210mm !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: white !important;
+    overflow: visible !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Hide everything except the slip */
+  body * {
+    visibility: hidden !important;
+  }
+
+  /* Make only the printable slip and its contents visible */
+  #printable-slip, #printable-slip * {
+    visibility: visible !important;
+  }
+
+  #printable-slip {
+    position: absolute !important;
+    left: 0mm !important;
+    top: 0mm !important;
+    width: 297mm !important; /* Total width of A4 Landscape */
+    height: 210mm !important; /* Total height of A4 Landscape */
+    max-width: none !important;
+    max-height: none !important;
+    box-shadow: none !important;
+    transform: none !important; /* Reset any JS zoom scaling */
+    margin: 0 !important;
+    border: none !important;
+    background-color: white !important;
+    color: black !important;
+    box-sizing: border-box !important;
+    display: flex !important;
+    flex-direction: row !important;
+  }
+}

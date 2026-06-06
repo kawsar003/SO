@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1780549548548,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Employee List",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T05:05:48.548Z"
+  },
+  {
+    "id": 1780549488947,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Employee List",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T05:04:48.947Z"
+  },
+  {
+    "id": 1780548109818,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Dashboard",
+    "module": "Dashboard",
+    "details": "",
+    "timestamp": "2026-06-04T04:41:49.818Z"
+  },
+  {
+    "id": 1780548109500,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Dashboard",
+    "module": "Dashboard",
+    "details": "",
+    "timestamp": "2026-06-04T04:41:49.500Z"
+  },
+  {
+    "id": 1780547790057,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Employee List",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:36:30.057Z"
+  },
+  {
+    "id": 1780547724657,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Employee List",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:35:24.657Z"
+  },
+  {
+    "id": 1780547656998,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Employee List",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:34:16.998Z"
+  },
+  {
+    "id": 1780547500232,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Dashboard",
+    "module": "Dashboard",
+    "details": "",
+    "timestamp": "2026-06-04T04:31:40.232Z"
+  },
+  {
+    "id": 1780547500112,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Dashboard",
+    "module": "Dashboard",
+    "details": "",
+    "timestamp": "2026-06-04T04:31:40.112Z"
+  },
+  {
+    "id": 1780547478988,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Dashboard",
+    "module": "Dashboard",
+    "details": "",
+    "timestamp": "2026-06-04T04:31:18.988Z"
+  },
+  {
+    "id": 1780547478879,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Dashboard",
+    "module": "Dashboard",
+    "details": "",
+    "timestamp": "2026-06-04T04:31:18.879Z"
+  },
+  {
+    "id": 1780547477657,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Employee List",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:31:17.657Z"
+  },
+  {
+    "id": 1780547462838,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Employee List",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:31:02.838Z"
+  },
+  {
+    "id": 1780547462709,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Employee List",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:31:02.709Z"
+  },
+  {
+    "id": 1780547460233,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Dashboard",
+    "module": "Dashboard",
+    "details": "",
+    "timestamp": "2026-06-04T04:31:00.233Z"
+  },
+  {
+    "id": 1780547460122,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Dashboard",
+    "module": "Dashboard",
+    "details": "",
+    "timestamp": "2026-06-04T04:31:00.122Z"
+  },
+  {
+    "id": 1780546597699,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Slip Settings",
+    "module": "Settings",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:37.699Z"
+  },
+  {
+    "id": 1780546597586,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Slip Settings",
+    "module": "Settings",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:37.586Z"
+  },
+  {
+    "id": 1780546585164,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Transactions",
+    "module": "Accounting",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:25.164Z"
+  },
+  {
+    "id": 1780546585164,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Leave Requests",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:25.164Z"
+  },
+  {
+    "id": 1780546585162,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Employee List",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:25.162Z"
+  },
+  {
+    "id": 1780546585156,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Receipts",
+    "module": "Accounting",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:25.156Z"
+  },
+  {
+    "id": 1780546585133,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Guest List",
+    "module": "Guest Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:25.133Z"
+  },
+  {
+    "id": 1780546585130,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Attendance",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:25.130Z"
+  },
+  {
+    "id": 1780546585127,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Tasks",
+    "module": "Tasks",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:25.127Z"
+  },
+  {
+    "id": 1780546584996,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Receipts",
+    "module": "Accounting",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:24.996Z"
+  },
+  {
+    "id": 1780546584995,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Leave Requests",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:24.995Z"
+  },
+  {
+    "id": 1780546584991,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Employee List",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:24.991Z"
+  },
+  {
+    "id": 1780546584988,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Transactions",
+    "module": "Accounting",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:24.988Z"
+  },
+  {
+    "id": 1780546584985,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Attendance",
+    "module": "HR Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:24.985Z"
+  },
+  {
+    "id": 1780546584983,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Guest List",
+    "module": "Guest Management",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:24.983Z"
+  },
+  {
+    "id": 1780546584981,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Tasks",
+    "module": "Tasks",
+    "details": "",
+    "timestamp": "2026-06-04T04:16:24.981Z"
+  },
+  {
+    "id": 1780546556274,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Slip Settings",
+    "module": "Settings",
+    "details": "",
+    "timestamp": "2026-06-04T04:15:56.274Z"
+  },
+  {
+    "id": 1780546556139,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Slip Settings",
+    "module": "Settings",
+    "details": "",
+    "timestamp": "2026-06-04T04:15:56.139Z"
+  },
+  {
+    "id": 1780546544231,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Slip Settings",
+    "module": "Settings",
+    "details": "",
+    "timestamp": "2026-06-04T04:15:44.231Z"
+  },
+  {
+    "id": 1780546544108,
+    "user": "User",
+    "email": "system@company.com",
+    "action": "Browsed Slip Settings",
+    "module": "Settings",
+    "details": "",
+    "timestamp": "2026-06-04T04:15:44.108Z"
+  }
+]

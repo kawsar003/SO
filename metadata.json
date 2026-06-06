@@ -1,0 +1,6 @@
+{
+  "name": "Smart Office ERP",
+  "description": "Office Management, HR, ERP, and Accounting System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
